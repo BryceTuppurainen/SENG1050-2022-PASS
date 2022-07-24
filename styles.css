@@ -7,8 +7,10 @@
 body {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 5%;
+    gap: 1cm;
     text-align: center;
+    background-color: rgb(210, 210, 210);
+    color:rgb(60, 60, 60);
 }
 
 .underlined {
