@@ -9,8 +9,17 @@ body {
     grid-template-columns: 1fr;
     gap: 1cm;
     text-align: center;
-    background-color: rgb(210, 210, 210);
-    color:rgb(60, 60, 60);
+    background-color: rgb(240, 240, 240);
+    color:rgb(28, 28, 28);
+}
+
+h1 {
+    font-size: 40pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:rgb(0, 0, 0);
+    padding: 15px;
 }
 
 .underlined {
